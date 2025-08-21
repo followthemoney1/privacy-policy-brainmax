@@ -1,67 +1,82 @@
-Privacy Policy for Brain MAX
+# Privacy Policy for Brain MAX
+## Effective Date: August 18, 2025
+Hey there! Welcome to Brain MAX, your AI hub for chatting with different AI models. This Privacy Policy tells you how we handle your info when you use our app. We care about your privacy and keep it real.
+By using Brain MAX, you’re cool with how we collect and use your info as described here.
+1. What We Collect
+We grab a few things to make the app work and improve it:
 
-Effective Date: August 18, 2025
+Your Inputs: Text prompts, system messages, or files (like images or PDFs) you toss into the app.
+Local Data: Your chat history and saved prompts stay on your device, safe and sound. We don’t peek unless you share for support.
+Usage Stats: Anonymous stuff like what features you use or crash reports. Can’t identify you, just helps us make the app better.
 
-Welcome to Brain MAX. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application. Your privacy is important to us, and we are committed to protecting it.
+2. How We Use It
+We use your info to:
 
-By using Brain MAX, you agree to the collection and use of information in accordance with this policy.
+Run the App: Send your prompts or files to the AI model you pick (like OpenAI or Google) to get responses. We’re just the middleman and don’t keep this stuff.
+Make It Better: Anonymous stats help us fix bugs and add cool features.
+Help You Out: If you hit us up for support, we might check your shared info to sort things out.
 
-1. Information We Collect
+3. Who We Share With
+We don’t sell or share your personal info, period. Except:
 
-To provide and improve our service, we collect the following types of information:
+AI Providers: Your prompts/files go to the AI service you choose to get answers. Check their privacy policies too.
+Legal Stuff: If the law or authorities ask, we might have to share some info.
 
-User-Provided Information: This includes any text, prompts, system messages, and files (such as images, documents, or PDFs) that you voluntarily input or upload into the application.
+4. Data Storage & Security
+Your data’s safe with us:
 
-Locally Stored Data: Your conversation history and saved prompts are stored directly and securely on your device. We do not have access to this information unless you choose to share it with us for support purposes.
+Local Storage: Chats and prompts live on your device. Delete the app, and poof, it’s gone.
+Security: We use solid protections for any data we handle, but no internet system’s 100% foolproof.
 
-Usage Data (Non-Personal): We may collect anonymous data about your interaction with the app, such as which features are used most often and crash reports. This helps us understand how to improve the user experience. This data is aggregated and cannot be used to identify you personally.
+5. Your Control
+You’re the boss of your data:
 
-2. How We Use Your Information
+Access/Edit: Check or tweak your chats and prompts in the app anytime.
+Delete: Wipe single messages, whole chats, or prompts from your device.
 
-The information we collect is used for the following purposes:
+6. Kids’ Privacy
+Brain MAX isn’t for kids under 13. We don’t collect their info knowingly. If we find out, we’ll delete it ASAP.
+7. Policy Updates
+We might tweak this policy. We’ll let you know in the app and update the “Effective Date.” Check back sometimes.
+8. Hit Us Up
+Questions? Reach out:
 
-To Provide and Maintain the Service: Your inputs, such as prompts and attached files, are sent directly to the third-party AI model you select (e.g., OpenAI, Google, Anthropic) to generate a response. We act as an intermediary and do not permanently store this content on our servers.
+Email: info@porada.app
+Website: brain-max.org
 
-To Improve the Application: We use anonymous usage data to identify bugs, enhance performance, and develop new features.
 
-For Customer Support: If you contact us for support, we may need to access information you provide to resolve your issue.
+# Terms and Conditions for Brain MAX
+## Effective Date: August 18, 2025
+Yo, welcome to Brain MAX! These Terms and Conditions (aka “Terms”) are the rules for using our app, where you can send text prompts to AI models. By using Brain MAX, you agree to these rules. If you don’t, please don’t use the app.
+1. Using the App
 
-3. How Information is Shared
+What You Can Do: Use Brain MAX to send prompts or files to AI models we connect you to, like OpenAI or Google.
+What You Can’t Do: Don’t use the app for anything illegal, harmful, or against the AI providers’ rules. No hacking, spamming, or uploading bad stuff like viruses.
+Your Account: You’re responsible for keeping your account secure. Don’t share your login with others.
 
-We do not sell, trade, or rent your personal identification information to others. Your data is shared only in the following limited circumstances:
+2. Your Content
 
-With Third-Party AI Providers: When you submit a prompt or a file, that specific data is sent to the AI service you have selected to process your request and generate a response. We recommend you review the privacy policies of the individual AI providers you choose to use within Brain MAX.
+Your Stuff: Prompts, files, or messages you put in are yours. You’re responsible for them.
+Our Role: We just pass your inputs to the AI models and don’t claim ownership. But you give us permission to send your stuff to those AI services to get responses.
 
-For Legal Requirements: We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+3. Third-Party AI Services
 
-4. Data Storage and Security
+Brain MAX connects you to third-party AI models. Their rules and privacy policies apply when you use them. We’re not responsible for what those AI services do with your data.
 
-The security of your data is a top priority.
+4. App Limits
 
-Local Storage: Your chat history and saved prompts are stored locally on your device. This gives you full control over your data. If you uninstall the app, this data will be deleted.
+We try to keep the app running smoothly, but it’s “as is.” No promises it’s perfect or always up.
+We’re not liable for any issues, like data loss or if the AI gives you wrong answers.
 
-Security Measures: We use industry-standard security measures to protect the anonymous usage data we collect and to ensure the secure transmission of your prompts to third-party AI providers. However, no method of transmission over the internet or electronic storage is 100% secure.
+5. Termination
 
-5. Your Rights and Choices
+We can suspend or ban you if you break these rules or misuse the app.
+You can stop using Brain MAX anytime. Just delete the app.
 
-You have full control over the data you create within Brain MAX. You can:
+6. Changes to Terms
+We might update these Terms. We’ll post changes in the app and update the “Effective Date.” Keep using the app, and you’re agreeing to the new rules.
+7. Contact Us
+Got questions? Hit us up:
 
-Access and Edit: Access your conversation history and saved prompts at any time within the app.
-
-Delete: Delete individual messages, entire conversations, or saved prompts directly from your device through the app's interface.
-
-6. Children's Privacy
-
-Our service is not intended for use by anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
-
-7. Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the app and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
-
-8. Contact Us
-
-If you have any questions about this Privacy Policy, please contact us:
-
-By Email: info@porada.app
-
-By Website: brain-max.org
+Email: info@porada.app
+Website: brain-max.org
